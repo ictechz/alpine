@@ -1,6 +1,6 @@
 export default defineAppConfig({
   alpine: {
-    title: 'Alpine',
+    title: 'hwweb',
     description: 'The minimalist blog theme',
     image: {
       src: '/social-card-preview.png',
@@ -37,5 +37,9 @@ export default defineAppConfig({
     form: {
       successMessage: 'Message sent. Thank you!'
     }
+  },
+
+  nuxtIcon: {
+    size: ''
   }
 })
