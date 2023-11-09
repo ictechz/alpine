@@ -28,11 +28,11 @@ export default defineAppConfig({
     socials: {
       twitter: 'ictechz',
       instagram: '',
-      
+      mastodon:'https://mas.to/@ictech'
       },
 
       github: 'ictechz',
-      youtube: 'hwtw'
+      youtube: '@hwtw'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
