@@ -26,13 +26,17 @@ export default defineAppConfig({
       message: 'Follow me on' // string that will be displayed in the footer (leave empty or delete to disable)
     },
     socials: {
-      twitter: 'nuxtlabs',
-      instagram: 'atinuxt',
+      twitter: 'ictechz',
+      instagram: '',
+
       linkedin: {
         icon: 'uil:linkedin',
         label: 'LinkedIn',
         href: 'https://www.linkedin.com/company/nuxtlabs'
-      }
+      },
+
+      github: 'ictechz',
+      youtube: 'hwtw'
     },
     form: {
       successMessage: 'Message sent. Thank you!'
