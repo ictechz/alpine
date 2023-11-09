@@ -28,11 +28,7 @@ export default defineAppConfig({
     socials: {
       twitter: 'ictechz',
       instagram: '',
-
-      linkedin: {
-        icon: 'uil:linkedin',
-        label: 'LinkedIn',
-        href: 'https://www.linkedin.com/company/nuxtlabs'
+      
       },
 
       github: 'ictechz',
